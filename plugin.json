@@ -1,0 +1,12 @@
+{
+    "ID":"a0dd936c58770c6e506bd953079dfbe5",   
+    "ActionKeyword":"seu",                    
+    "Name":"Seu-wlan_AutoLogin",                            
+    "Description":"login seu-wlan",    
+    "Author":"junchi",                     
+    "Version":"0.0.1",                      
+    "Language":"python",                    
+    "Website":"https://github.com/wangjunchi",         
+    "IcoPath": "Images\\app.icon",              
+    "ExecuteFileName":"main.py"   
+  }
